@@ -3,3 +3,4 @@
 
 # Created by https://www.gitignore.io/api/osx,windows
 Win32/
+_history/
