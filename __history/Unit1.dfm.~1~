@@ -339,8 +339,8 @@ object Form1: TForm1
   end
   object DataSource1: TDataSource
     DataSet = Table
-    Left = 192
-    Top = 409
+    Left = 144
+    Top = 417
   end
   object Table: TFDTable
     Connection = FDConnectionOrigem
